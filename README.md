@@ -7,7 +7,7 @@
 
 > Ask any question about your engineering history. DevMemory queries across 9 data sources in one Coral SQL statement and returns an evidence-backed narrative, not a data dump.
 
-**[Live Demo](https://coralhackathon.vercel.app)** · **[YouTube Demo](https://youtube.com/watch?v=TODO)** · Track 1: Enterprise Agent
+**[Live Demo](https://coralhackathon.vercel.app)** · **[YouTube Demo](https://youtu.be/5BvQiNjJ0V8)** · Track 1: Enterprise Agent
 
 ---
 
